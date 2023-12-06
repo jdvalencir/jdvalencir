@@ -53,9 +53,9 @@
 
 <div align="center">
   <h2 align="center"> My Github Stats <span mar="center">:octocat:</span></h2>
-      <img src="https://streak-stats.demolab.com?user=JulianValencia08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianValencia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"             alt="languages graph"  />
-     <img src="https://github-readme-stats.vercel.app/api?username=JulianValencia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"         alt="stats graph"  />
+      <img src="https://streak-stats.demolab.com?user=JulianValencia08&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianValencia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150"             alt="languages graph"  />
+     <img src="https://github-readme-stats.vercel.app/api?username=JulianValencia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="200"         alt="stats graph"  />
 </div>
 
 <br clear="both">
@@ -72,7 +72,7 @@
 
 <div align="center"> 
   <h2 align="center">Random Dev Quote ✍️</h2>
-  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </div>
 
 <br clear="both"> 
