@@ -1,25 +1,27 @@
 <br clear="both">
+
 <div align="center">
   <img src="https://github.com/JulianValencia08/JulianValencia08/assets/88250984/6d13a767-5349-45c0-8035-c8a9812eae51"  />
 </div>
 
 ###
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianValencia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JulianValencia08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianValencia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img src="https://badges.pufler.dev/visits/JulianValencia08/ritik307"/> 
+ <img src="https://badges.pufler.dev/years/JulianValencia08"/>
+ <img src="https://badges.pufler.dev/repos/JulianValencia08"/>
+ <img src="https://badges.pufler.dev/commits/monthly/JulianValencia08" />
 </div>
-
-###
 
 <br clear="both">
 
+<div align="center"> 
+  <p align="center">
+    "I'm a 3rd year student pursuing my degree as a Computer Scientist 🎓 from EAFIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 💡. I love to         explore new technologies and harness them to solve real-life problems ✨. I'm deeply involved in Web  Development, machine learning, and application architecture 🕸️."
+</p>
+</div>
+
 <div align="center">
+  <h2 align="center">Technology Stack 🧰 </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -47,13 +49,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <h2 align="center"> My Github Stats <span mar="center">:octocat:</span></h2>
+      <img src="https://streak-stats.demolab.com?user=JulianValencia08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianValencia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"             alt="languages graph"  />
+     <img src="https://github-readme-stats.vercel.app/api?username=JulianValencia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"         alt="stats graph"  />
 </div>
 
-###
+<br clear="both">
+
+<div align="center">
+  <h2 align="center">Reach me out on 📫</h2>
+ <a href="https://www.instagram.com/jdvalencia_r/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+ <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHRVkQRFQSbSltCVZSQbhcjWbsBRXjhgkHTHfxQkTbGdgBCdLKDvCmBsFqzzqtQgRdsL"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+ <a href="https://www.linkedin.com/in/juli%C3%A1n-david-valencia-restrepo-ba081b237/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+<a href="https://twitter.com/i/flow/login?redirect_after_login=%2FJulian_V08">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
+</div>
+
+<br clear="both"> 
+
+<div align="center"> 
+  <h2 align="center">Random Dev Quote ✍️</h2>
+  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br clear="both"> 
+
+<div align="center">
+  <h1>Take a look at my repositories 👇</h1>
+</div>
