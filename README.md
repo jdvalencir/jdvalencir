@@ -1,15 +1,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/JulianValencia08/JulianValencia08/assets/88250984/6d13a767-5349-45c0-8035-c8a9812eae51"  />
+  <img src="https://github.com/jdvalencir/jdvalencir/assets/88250984/6d13a767-5349-45c0-8035-c8a9812eae51"  />
 </div>
 
 ###
 <div align="center">
- <img src="https://badges.pufler.dev/visits/JulianValencia08/ritik307"/> 
- <img src="https://badges.pufler.dev/years/JulianValencia08"/>
- <img src="https://badges.pufler.dev/repos/JulianValencia08"/>
- <img src="https://badges.pufler.dev/commits/monthly/JulianValencia08" />
+ <img src="https://badges.pufler.dev/visits/jdvalencir/ritik307"/> 
+ <img src="https://badges.pufler.dev/years/jdvalencir"/>
+ <img src="https://badges.pufler.dev/repos/jdvalencir"/>
+ <img src="https://badges.pufler.dev/commits/monthly/jdvalencir" />
 </div>
 
 <br clear="both">
@@ -53,9 +53,9 @@
 
 <div align="center">
   <h2 align="center"> My Github Stats <span mar="center">:octocat:</span></h2>
-      <img src="https://streak-stats.demolab.com?user=JulianValencia08&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianValencia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150"             alt="languages graph"  />
-     <img src="https://github-readme-stats.vercel.app/api?username=JulianValencia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="200"         alt="stats graph"  />
+      <img src="https://streak-stats.demolab.com?user=jdvalencir&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jdvalencir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150"             alt="languages graph"  />
+     <img src="https://github-readme-stats.vercel.app/api?username=jdvalencir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="200"         alt="stats graph"  />
 </div>
 
 <br clear="both">
