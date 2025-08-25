@@ -4,19 +4,12 @@
   <img src="https://github.com/jdvalencir/jdvalencir/assets/88250984/6d13a767-5349-45c0-8035-c8a9812eae51"  />
 </div>
 
-###
-<div align="center">
- <img src="https://badges.pufler.dev/visits/jdvalencir/ritik307"/> 
- <img src="https://badges.pufler.dev/years/jdvalencir"/>
- <img src="https://badges.pufler.dev/repos/jdvalencir"/>
- <img src="https://badges.pufler.dev/commits/monthly/jdvalencir" />
-</div>
 
 <br clear="both">
 
 <div align="center"> 
   <p align="center">
-    "I'm a 3rd year student pursuing my degree as a Computer Scientist 🎓 from EAFIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 💡. I love to         explore new technologies and harness them to solve real-life problems ✨. I'm deeply involved in Web  Development, machine learning, and application architecture 🕸️."
+    "I'm a Computer Scientist 🎓 from EAFIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 💡. I love to         explore new technologies and harness them to solve real-life problems ✨. I'm deeply involved in Web  Development, machine learning, and application architecture 🕸️."
 </p>
 </div>
 
@@ -53,7 +46,6 @@
 
 <div align="center">
   <h2 align="center"> My Github Stats <span mar="center">:octocat:</span></h2>
-      <img src="https://streak-stats.demolab.com?user=jdvalencir&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jdvalencir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150"             alt="languages graph"  />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=jdvalencir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="200"         alt="stats graph"  /> -->
 </div>
