@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/jdvalencir/jdvalencir/assets/88250984/6d13a767-5349-45c0-8035-c8a9812eae51"  />
+  <img width="3266" height="1280" alt="image" src="https://github.com/user-attachments/assets/508cb794-7a49-4163-85f3-45951e57efd8" />
 </div>
 
 
