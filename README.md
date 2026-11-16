@@ -1,66 +1,21 @@
-<br clear="both">
+<a href="https://jdvalencir.com"><img src="banner.png" alt="Julián Valencia, Software Engineer — Hispania to Medellín" width="100%"></a>
 
-<div align="center">
-  <img width="3266" height="1280" alt="image" src="https://github.com/user-attachments/assets/508cb794-7a49-4163-85f3-45951e57efd8" />
-</div>
+I'm a software engineer from **Hispania, Antioquia**, now in **Medellín, Colombia**. I like building things end to end: the app, the infrastructure it runs on, and the automation around it.
 
+**Portfolio:** [jdvalencir.com](https://jdvalencir.com) · **LinkedIn:** [in/jdvalencir](https://www.linkedin.com/in/jdvalencir) · **Email:** julianv302@gmail.com
 
-<br clear="both">
+### Projects
 
-<div align="center"> 
-  <p align="center">
-    "I'm a Computer Scientist 🎓 from EAFIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 💡. I love to         explore new technologies and harness them to solve real-life problems ✨. I'm deeply involved in Web  Development, machine learning, and application architecture 🕸️."
-</p>
-</div>
+| | |
+|---|---|
+| **[homeops](https://github.com/jdvalencir/homeops)** | An old laptop turned into a 24/7 home server and personal assistant. Claude Code runs headless with read-only tools: morning brief, weekly plan, a money report from bank emails, a job digest that flags scam recruiters, encrypted backups and alerts. |
+| **[Copy-Trade Lite](https://github.com/jdvalencir/copy-trade-lite)** | One-click BTC perpetuals with trade ideas anyone can copy, on Decibel (Aptos testnet). [Live demo](https://copy-trade-lite.vercel.app) |
+| **[Livestock Fund Manager](https://jdvalencir.com/projects/livestock-fund-manager/)** | Multi-fund financial management for cattle investment groups. Next.js 16, PostgreSQL, Auth.js. *Client project, private.* |
+| **[Cuentas Claras](https://jdvalencir.com/projects/cuentas-claras/)** | Expense tracker for Colombia: log an expense in seconds by keypad, text, voice, Apple Pay, bank emails or WhatsApp. *Private.* |
 
-<div align="center">
-  <h2 align="center">Technology Stack 🧰 </h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### Tools I use
 
-<br clear="both">
-
-<div align="center">
-  <h2 align="center">Reach me out on 📫</h2>
- <a href="https://www.instagram.com/jdvalencia_r/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHRVkQRFQSbSltCVZSQbhcjWbsBRXjhgkHTHfxQkTbGdgBCdLKDvCmBsFqzzqtQgRdsL"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
- <a href="https://www.linkedin.com/in/juli%C3%A1n-david-valencia-restrepo-ba081b237/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-<a href="https://twitter.com/i/flow/login?redirect_after_login=%2FJulian_V08">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
-</div>
-
-<br clear="both"> 
-
-<div align="center"> 
-  <h2 align="center">Random Dev Quote ✍️</h2>
-  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
-
-<br clear="both"> 
-
-<div align="center">
-  <h1>Take a look at my repositories 👇</h1>
-</div>
+**Frontend** React · Next.js · Astro · TypeScript · Tailwind  
+**Backend** Python · FastAPI · NestJS · Node · PostgreSQL · Redis · gRPC  
+**Cloud** GCP · Terraform · Kubernetes · Docker · Linux · Vercel  
+**AI** Claude · LLM agents · MCP · RAG · evals
